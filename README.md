@@ -1,10 +1,11 @@
-A website that redirects the user to an appropriate uBlock Origin download page, based on their browser.
-Uses https://github.com/DamonOehlman/detect-browser
+A website that redirects the user to an appropriate [uBlock Origin](https://github.com/gorhill/uBlock) download page, based on their browser.
+
+Uses [detect-browser](https://github.com/DamonOehlman/detect-browser)
 
 To install dependencies:
 npm install
 
-To install browserify:
+To install [browserify](https://github.com/browserify/browserify):
 npm install -g browserify
 
 To build:
