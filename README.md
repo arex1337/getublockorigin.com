@@ -1,3 +1,5 @@
+Live at http://getublockorigin.com / https://getublockorigin.com
+
 A website that redirects the user to an appropriate [uBlock Origin](https://github.com/gorhill/uBlock) download page, based on their browser.
 
 Uses [detect-browser](https://github.com/DamonOehlman/detect-browser).
