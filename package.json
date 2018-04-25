@@ -1,0 +1,23 @@
+{
+  "name": "getublockorigin.com",
+  "version": "1.0.0",
+  "description": "A website that redirects the user to an appropriate uBlock Origin download page, based on their browser",
+  "main": "index.html",
+  "dependencies": {
+    "detect-browser": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arex1337/getublockorigin.com.git"
+  },
+  "author": "T. Alexander Lystad",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/arex1337/getublockorigin.com/issues"
+  },
+  "homepage": "https://github.com/arex1337/getublockorigin.com#readme"
+}
